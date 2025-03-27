@@ -1,0 +1,30 @@
+{
+  "name": "clone-tabnews",
+  "version": "0.0.1",
+  "description": "Implementação de ponta a ponta do https://tabnews.com.br.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunohpdabreu/clone-tabnews.git"
+  },
+  "keywords": [
+    "nextjs",
+    "nodejs",
+    "reat",
+    "devbeta"
+  ],
+  "author": "Bruno Abreu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunohpdabreu/clone-tabnews/issues"
+  },
+  "homepage": "https://github.com/brunohpdabreu/clone-tabnews#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
