@@ -4,7 +4,7 @@
   "description": "Implementação de ponta a ponta do https://tabnews.com.br.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "repository": {
     "type": "git",
